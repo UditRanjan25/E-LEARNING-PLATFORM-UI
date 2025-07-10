@@ -53,5 +53,21 @@ In summary, the Front-End Online Courses Website provides an excellent example o
 
 **OUTPUT**
 
+<img width="1911" height="890" alt="Image" src="https://github.com/user-attachments/assets/6db1b049-71c3-4a84-b991-2447d331975d" />
 
+<img width="1901" height="889" alt="Image" src="https://github.com/user-attachments/assets/6f771c3f-4d08-4e08-a524-cab65eba0ffa" />
+
+<img width="1919" height="884" alt="Image" src="https://github.com/user-attachments/assets/e4178e87-1116-4c1d-ac08-71eb280d600c" />
+
+<img width="1919" height="887" alt="Image" src="https://github.com/user-attachments/assets/5156604d-8e66-4cdc-b2e5-aade07847f85" />
+
+<img width="1919" height="882" alt="Image" src="https://github.com/user-attachments/assets/d9faa035-f479-49d9-80ec-73393a5630ec" />
+
+<img width="1919" height="895" alt="Image" src="https://github.com/user-attachments/assets/d2f4813f-84c9-4808-a303-9102fe49db81" />
+
+<img width="1919" height="884" alt="Image" src="https://github.com/user-attachments/assets/66692d96-84fd-4d82-8c81-056c17e405ee" />
+
+<img width="1919" height="814" alt="Image" src="https://github.com/user-attachments/assets/e3e534b7-de61-45a7-ad58-a9a0086b8e59" />
+
+<img width="1919" height="852" alt="Image" src="https://github.com/user-attachments/assets/3921bb9c-4ad3-421c-a2c3-06449fbb3206" />
 
